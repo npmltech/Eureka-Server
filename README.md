@@ -1,2 +1,2 @@
-# Eureka-Server
-A Discovery Server using Spring Eureka.
+# Eureka-Service-Discovery
+A Service Discovery using Spring Eureka.
